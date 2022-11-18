@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "player.h": "c",
+        "game_data.h": "c",
+        "json.h": "c",
+        "stdlib.h": "c",
+        "rule.h": "c",
+        "map.h": "c"
+    }
+}

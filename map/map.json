@@ -1,0 +1,25 @@
+{
+    "case": 
+    [
+        {
+            "name": "start",
+            "type": "start",
+            "cost": 200
+        },
+        {
+            "name": "a",
+            "type": "hotel",
+            "cost": 0
+        },
+        {
+            "name": "b",
+            "type": "hotel",
+            "cost": 0
+        },
+        {
+            "name": "bill",
+            "type": "event",
+            "cost": -10
+        }
+    ]
+}
